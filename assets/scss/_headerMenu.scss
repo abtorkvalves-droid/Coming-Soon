@@ -155,6 +155,11 @@
         }
     }
     .logo{
+        img {
+                    height: 78px !important;
+
+        }
+
        .small-logo{
            display: none;
             @media #{$lg}{
